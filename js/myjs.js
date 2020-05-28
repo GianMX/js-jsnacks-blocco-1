@@ -6,9 +6,13 @@
 // if (firstNumber > secondNumber) {
 //   alert(firstNumber);
 // }
-// else {
+// else if (secondNumber > firstNumber){
 //   alert(secondNumber);
 // }
+// else {
+//   alert('Sono lo stesso numero!')
+// }
+
 
 
 // // SNACK 2
@@ -19,10 +23,13 @@
 //   // console.log(firstWord);
 //   alert(secondWord + ' ' + firstWord);
 // }
-// else {
+// else if (firstWord.length < secondWord.length){
 //   // console.log(secondWord);
 //   alert(firstWord + ' ' + secondWord);
 // }
+//  else {
+//   alert ('Le parole hanno la stessa lunghezza')
+//  }
 
 
 // // SNACK 3
