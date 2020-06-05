@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: blue;
+}
+#rosso {
+  margin-top:30px;
+  color: red;
+  width: 15%;
+  height: 150px;
+  background:black;
+}
+#verde {
+  margin-top: 30px;
+  color: green;
+  width: 15%;
+  height: 150px;
+  background: lightblue;;
+}
+h2 {
+  text-transform: uppercase;
+  padding-bottom: 15px;
+}

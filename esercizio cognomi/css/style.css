@@ -1,0 +1,23 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: black;
+  color:white;
+}
+h1 {
+  padding:30px;
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-size:40px;
+}
+#fakerandom {
+  font-size : 20px;
+  padding: 10px;
+}
+hr {
+  width: 50%;
+  text-align:center;
+  margin: 0 auto;
+}
